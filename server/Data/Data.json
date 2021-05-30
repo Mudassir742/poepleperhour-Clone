@@ -1,0 +1,48 @@
+{
+  "Data": [
+    {
+      "cate": "Programming",
+      "img": "./Page-Photos/Programming/p1.png",
+      "title": "Develop a Professional Single Page Website",
+      "sort": "recommended",
+      "sugdata": {
+        "s1": "Customization",
+        "s2": "Web dev",
+        "s3": "Web design",
+        "s4": "Wordpress(cms)",
+        "s5": "...."
+      },
+      "sellerdata": {
+        "img": "/Page-Photos/profile_photo/per1.png",
+        "name": "by Vishal M",
+        "icon": "",
+        "rating": "5.0",
+        "number": "(50)",
+        "price": "100"
+      },
+      "time": "4"
+    },
+    {
+      "cate": "Programming",
+      "img": "./Page-Photos/Programming/p1.png",
+      "title": "Develop a Professional Single Page Website",
+      "sort": "recommended",
+      "sugdata": {
+        "s1": "Customization",
+        "s2": "Web dev",
+        "s3": "Web design",
+        "s4": "Wordpress(cms)",
+        "s5": "...."
+      },
+      "sellerdata": {
+        "img": "./Page-Photos/profile_photo/per1.png",
+        "name": "by Vishal M",
+        "icon": "",
+        "rating": "5.0",
+        "number": "(50)",
+        "price": "100"
+      },
+      "time": "4"
+    }
+  ]
+}
