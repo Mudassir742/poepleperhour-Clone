@@ -131,3 +131,8 @@ header
 .h_row2 nav ul li a:hover{
     border-bottom: 2px solid rgb(32, 30, 30);
 }
+
+.link:hover{
+    cursor: pointer;
+    color: #F67328;
+}

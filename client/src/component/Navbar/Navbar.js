@@ -1,4 +1,5 @@
 import React from 'react';
+import { NavLink } from "react-router-dom";
 
 import Logo from './img/logo.png';
 
@@ -24,9 +25,9 @@ function Navbar() {
                         </ul>
 
                         <ul className="list1">
-                            <li className="login"><a href="/">LOGIN</a></li>
-                            <li><a href="/">SIGNUP</a></li>
-                            <li><a href="/" >FREELANCERS?</a></li>
+                            <li className="login"><NavLink to="Login"><span className="link">LOGIN</span></NavLink></li>
+                            <li><NavLink to="/"><span className="link">SIGNUP</span></NavLink></li>
+                            <li><NavLink to="/projects"><span className="link">SERVICES</span></NavLink></li>
                         </ul>
 
                     </nav>

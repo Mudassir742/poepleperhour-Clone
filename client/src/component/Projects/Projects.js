@@ -14,7 +14,7 @@ function Projects() {
     const headers = { 'Content-Type': 'application/json' }
     fetch("/gigs/api/data",{headers})
       .then((response)=> response.json())
-      .then(data=>{setListData(data);setFilterData(data); console.log(data)})
+      .then(data=>{setListData(data);setFilterData(data)})
 
     //console.log(data);
   },[])
